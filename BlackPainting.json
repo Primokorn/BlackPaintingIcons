@@ -1,0 +1,17 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Linux",
+				"author": "Primokorn",
+				"url": "https://github.com/Primokorn/BlackPaintingIcons/blob/master/Wallpapers/29ab21418dcacacc818e6e1e7723f14d.jpg",
+        "dimensions": "2560x1600"
+			},
+			{
+				"name": "Linux2",
+				"author": "Primokorn",
+				"url": "https://github.com/Primokorn/BlackPaintingIcons/blob/master/Wallpapers/Gnu-linux-white-wallpaper.png",
+				"dimensions": "1600x1200"
+			}
+		]
+}
